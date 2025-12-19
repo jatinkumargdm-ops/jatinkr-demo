@@ -1,3 +1,3 @@
 # jatinkr-demo
-This is my first repository.<hr>
+This is my first repository.<br>
 Author-Jatin Kumar.
